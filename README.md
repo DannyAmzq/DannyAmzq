@@ -1,7 +1,7 @@
-## 👋 Hi! I’m MrHonorCodes
+## 👋 Hi! I’m Danny
 - 👀 I enjoy Video Games, Music, Keyboards, Basketball, and Marvel/DC Movies/Comics!
 - 🌱 I’m currently learning the MERN Stack.
-- 😸 I’m looking to collaborate on anything , but I'm mostly interested in Front End and UI/UX.
+- 😸 I’m looking to collaborate on anything, but I'm mostly interested in Front End and UI/UX.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -38,9 +38,8 @@
 ---
 
 ### 🔥 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrHonorCodes&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DannyAmzq&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyAmzq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Danny GitHub stats](https://github-readme-stats.vercel.app/api?username=DannyAmzq)](https://github.com/anuraghazra/github-readme-stats)
 
 
